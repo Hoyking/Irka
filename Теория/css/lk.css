@@ -1,3 +1,11 @@
 .middle {
 	text-align: center;
 }
+
+.table-margin {
+	margin-left: 50px;
+}
+
+p, ul, ol {
+	font-size: 14pt;
+}
